@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="org.http4k.client.ApacheClient" />
+  </component>
+</application>
