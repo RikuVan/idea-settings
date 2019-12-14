@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="main" type="Kotlin" />
       <mapping pattern="ams" type="Kotlin" />
-      <mapping pattern="index.hbs" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="validation" type="PLAIN_TEXT" />
       <mapping pattern="main.Kt" type="PLAIN_TEXT" />
@@ -11,6 +12,8 @@
       <mapping pattern="chrome" type="PLAIN_TEXT" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern="headless-chromedriver" type="PLAIN_TEXT" />
+      <mapping pattern="index.hbs" type="PLAIN_TEXT" />
+      <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
