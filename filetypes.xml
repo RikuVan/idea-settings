@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="main" type="Kotlin" />
       <mapping pattern="ams" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="validation" type="PLAIN_TEXT" />
       <mapping pattern="main.Kt" type="PLAIN_TEXT" />
