@@ -14,6 +14,7 @@
       <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern="headless-chromedriver" type="PLAIN_TEXT" />
       <mapping pattern="validation" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="index.hbs" type="PLAIN_TEXT" />
       <mapping pattern="ConfigDelegate" type="PLAIN_TEXT" />
       <mapping ext="asciipb" type="PLAIN_TEXT" />
