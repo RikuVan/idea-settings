@@ -1,23 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="main" type="Kotlin" />
       <mapping pattern="ams" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="gradlew" type="PLAIN_TEXT" />
-      <mapping pattern="main.Kt" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="chrome" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
+      <mapping pattern="main.Kt" type="PLAIN_TEXT" />
       <mapping pattern="headless-chromedriver" type="PLAIN_TEXT" />
       <mapping pattern="CourseLocation" type="PLAIN_TEXT" />
-      <mapping pattern="validation" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="index.hbs" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="ConfigDelegate" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="chrome" type="PLAIN_TEXT" />
+      <mapping pattern="validation" type="PLAIN_TEXT" />
       <mapping ext="asciipb" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping ext="proprties" type="PLAIN_TEXT" />
