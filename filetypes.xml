@@ -21,6 +21,7 @@
       <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping ext="proprties" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="V8__AddCreatedAtToSignificantChange.sql" type="yarn.lock" />
     </extensionMap>
   </component>
 </application>
