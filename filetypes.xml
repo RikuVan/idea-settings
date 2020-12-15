@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="main.Kt" type="PLAIN_TEXT" />
       <mapping pattern="headless-chromedriver" type="PLAIN_TEXT" />
       <mapping pattern="CourseLocation" type="PLAIN_TEXT" />
