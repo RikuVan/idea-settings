@@ -14,6 +14,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="index.hbs" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern="string_component.py" type="PLAIN_TEXT" />
       <mapping pattern="ConfigDelegate" type="PLAIN_TEXT" />
       <mapping pattern="InstantSerialization" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
