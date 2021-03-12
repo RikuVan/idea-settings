@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="main" type="Kotlin" />
       <mapping pattern="ams" type="Kotlin" />
@@ -25,6 +25,8 @@
       <mapping ext="proprties" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="V8__AddCreatedAtToSignificantChange.sql" type="yarn.lock" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
