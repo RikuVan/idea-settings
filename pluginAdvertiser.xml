@@ -218,6 +218,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.db">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
@@ -1432,12 +1440,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sq">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sql">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sqm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
             </plugin>
           </value>
         </entry>
