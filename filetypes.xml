@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="V5__RecreateCourseStatusesViewWithoutArchived.sql" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="main" type="Kotlin" />
       <mapping pattern="ams" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
