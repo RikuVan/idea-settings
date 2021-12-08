@@ -23,6 +23,7 @@
       <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern="string_component.py" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="pnpm" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping ext="yaml-template" type="PLAIN_TEXT" />
       <mapping ext="asciipb" type="PLAIN_TEXT" />
