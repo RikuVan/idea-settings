@@ -31,6 +31,7 @@
       <mapping ext="proprties" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="html.peb" type="Pebble" />
+      <mapping pattern="Jenkinsfile" type="logback" />
       <mapping pattern="V8__AddCreatedAtToSignificantChange.sql" type="yarn.lock" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
