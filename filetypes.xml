@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="V10__create_features_table" type="AUTO_DETECTED" />
       <mapping pattern="FeatureUpdate" type="AUTO_DETECTED" />
+      <mapping pattern="V10__create_features_table" type="AUTO_DETECTED" />
+      <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
