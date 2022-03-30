@@ -4,6 +4,7 @@
       <mapping pattern="FeatureUpdate" type="AUTO_DETECTED" />
       <mapping pattern="V10__create_features_table" type="AUTO_DETECTED" />
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
