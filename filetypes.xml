@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Requests" type="AUTO_DETECTED" />
       <mapping pattern="FeatureUpdate" type="AUTO_DETECTED" />
       <mapping pattern="Translation" type="AUTO_DETECTED" />
       <mapping pattern="V10__create_features_table" type="AUTO_DETECTED" />
