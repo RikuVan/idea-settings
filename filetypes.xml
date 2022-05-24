@@ -8,7 +8,6 @@
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
