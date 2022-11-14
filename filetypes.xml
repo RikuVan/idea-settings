@@ -4,6 +4,7 @@
       <mapping pattern="Requests" type="AUTO_DETECTED" />
       <mapping pattern="FeatureUpdate" type="AUTO_DETECTED" />
       <mapping pattern="Translation" type="AUTO_DETECTED" />
+      <mapping pattern="ImageUrlValidator" type="AUTO_DETECTED" />
       <mapping pattern="V10__create_features_table" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
