@@ -10,6 +10,7 @@
       <mapping ext="env" type="Env File" />
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping pattern=".env.override" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
