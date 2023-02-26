@@ -17,7 +17,9 @@
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="html.peb" type="Pebble" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
